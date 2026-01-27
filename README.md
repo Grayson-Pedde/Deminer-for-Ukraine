@@ -26,35 +26,36 @@ Within the team of five, I was responsible for **all electrical system design an
 ## Electrical System Architecture
 The electrical system was designed to separate high-power motor loads from low-voltage control electronics. A 12 V battery powered the drive motors and flail motor through motor drivers and an ESC, while a regulated 5 V supply powered the Arduino, Bluetooth module, and sensors.
 
-![Electrical Circuit Diagram](images/circuit_diagram.jpg)
+![Electrical Circuit Diagram](Circuit)
 
 ---
 
 ## Control and Communication
 REM-E is controlled remotely using a smartphone via the Dabble app and an HM-10 Bluetooth module. The Arduino interprets control inputs and translates them into motor commands for both vehicle motion and flail operation. Considerable effort was required to decode Bluetooth input packets and correctly map them to control functions.
 
-![Wiring and Electrical Integration](images/wiring.jpg)
+![Wiring and Electrical Integration](Electrical)
 
 ---
 
 ## Mechanical Integration Support
 While mechanical design and CAD were handled by other team members, close coordination was required to ensure the electrical layout fit within the SolidWorks-designed chassis. Component placement prioritized accessibility, serviceability, and protection from vibration and debris.
 
-![SolidWorks CAD Model](images/solidworks_model.jpg)
+![SolidWorks CAD Model](Solidworks)
 
 ---
 
 ## Prototype Assembly
 The prototype vehicle integrated the electrical system into a reinforced tractor-style base. Internal wiring was routed to minimize interference and allow for maintenance. The design also allowed for future expansion, including additional sensors and attachments.
 
-![Final Assembly](images/final_assembly.jpg)
+![Final Assembly](Assembly)
 
 ---
 
 ## Budget and Cost Analysis
 An initial project budget of $195 was established, with a large portion allocated to electrical components. Through reuse of existing materials and careful component selection, the **final prototype cost was reduced to approximately $101**, representing a significant cost savings.
 
-![Project Budget Breakdown](images/budget.jpg)
+![Project Budget Breakdown](Prototyping)
+![Project Manufacturing](Manufacturing)
 
 ---
 
