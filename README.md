@@ -52,7 +52,7 @@ The prototype vehicle integrated the electrical system into a reinforced tractor
 ---
 
 ## Budget and Cost Analysis
-An initial project budget of $195 was established, with a large portion allocated to electrical components. Through reuse of existing materials and careful component selection, the **final prototype cost was reduced to approximately $101**, representing a significant cost savings.
+An initial project budget of $195 was established, with a large portion allocated to electrical components. Through reuse of existing materials and careful component selection, the **final prototype cost was reduced to approximately $101**, representing significant cost savings.
 
 ![Project Budget Breakdown](Prototyping)
 ![Project Manufacturing](Manufacturing)
